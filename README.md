@@ -1,4 +1,4 @@
-# MacroPad by MCHilli
+# MacroPad by anonimus :)
 
 <img src="https://github.com/mchilli/macropad/blob/main/webui/img/macropad-128.png?raw=true" height="100">
 
